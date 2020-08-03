@@ -1,4 +1,4 @@
-# Election_Analysis
+# Colorado's 2018 1st District Congress Elections Analysis with Python
 
 ## Overview of Election Audit
 Based on the 2018 Colorado 1st district Congress Elections, we'll find out the votes and percentages of the running candidates and the counties of the precinct. All the results are saved in the election_analysis.txt file on the Resource folder.
