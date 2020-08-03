@@ -7,10 +7,13 @@ Based on the 2018 Colorado 1st district Congress Elections, we'll find out the v
 * There was a total of 369,711 votes casted in this election.
 * Counties Votes and Percentage Breakdown
 ![](Resources/Counties_Votes.png)
+
 * Largest County Turnout
 ![](Resources/Largest_Turnout.png)
+
 * Candidate Votes and Percentages Breakdown
 ![](Resources/Candidates_Votes.png)
+
 * Winning Candidate Votes and Percentage
 ![](Resources/Winner_Candidate.png)
 
