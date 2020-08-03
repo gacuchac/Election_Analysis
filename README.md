@@ -6,13 +6,13 @@ Based on the 2018 Colorado 1st district Congress Elections, we'll find out the v
 ## Election-Audit Results
 * There was a total of 369,711 votes casted in this election.
 * Counties Votes and Percentage Breakdown
- ![](Resources/Counties_Votes.png)
+  ![](Resources/Counties_Votes.png)
 * Largest County Turnout
- ![](Resources/Largest_Turnout.png)
+  ![](Resources/Largest_Turnout.png)
 * Candidate Votes and Percentages Breakdown
- ![](Resources/Candidates_Votes.png)
+  ![](Resources/Candidates_Votes.png)
 * Winning Candidate Votes and Percentage
- ![](Resources/Winner_Candidate.png)
+  ![](Resources/Winner_Candidate.png)
 
 ## Election-Audit Summary
 Even though we are showing the 2018 Colorado's 1st District Congress results, this script could easily be modified to include all districts and candidates. We will iterate over each district, obtaining all the candidates and counties and obtaining all the necessary calculations for the audit.
