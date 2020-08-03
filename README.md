@@ -8,7 +8,7 @@ Based on the 2018 Colorado 1<sup>st</sup.> district Congress Elections, we'll fi
 * Counties Votes and Percentage Breakdown\
 ![](Resources/Counties_Votes.png)
 * Largest County Turnout\
-![](Resources/Largest_Turnout.png)
+![](Resources/Largest_Turnout2.png)
 * Candidate Votes and Percentages Breakdown\
 ![](Resources/Candidates_Votes.png)
 * Winning Candidate Votes and Percentage\
