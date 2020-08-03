@@ -1,7 +1,7 @@
 # Colorado's 2018 1<sup>st</sup> District Congress Elections Analysis with Python
 
 ## Overview of Election Audit
-Based on the 2018 Colorado 1<sup>st</sup.> district Congress Elections, we'll find out the votes and percentages of the running candidates and the counties of the precinct. All the results are saved in the election_analysis.txt file on the Resource folder.
+Based on the 2018 Colorado 1<sup>st</sup> district Congress Elections, we'll find out the votes and percentages of the running candidates and the counties of the precinct. All the results are saved in the election_analysis.txt file on the Resource folder.
 
 ## Election-Audit Results
 * There was a total of 369,711 votes casted in this election.
